@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Anime Scenery",
+        "price": 2021.5,
+        "imgUrl": "/images/anime scenery.png"
+    },
+    {
+        "id": 2,
+        "name": "Hatsune Miku",
+        "price": 3939,
+        "imgUrl": "/images/hatsune miku.png"
+    },
+    {
+        "id": 3,
+        "name": "Kiana Kaslana",
+        "price": 2021,
+        "imgUrl": "/images/kiana kaslana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nagato",
+        "price": 6666,
+        "imgUrl": "/images/nagato.png"
+    },
+    {
+        "id": 5,
+        "name": "Raiden Mei",
+        "price": 2550,
+        "imgUrl": "/images/raiden mei.png"
+    },
+    {
+        "id": 6,
+        "name": "Tohsaka Rin",
+        "price": 50501,
+        "imgUrl": "/images/toshaka rin.png"
+    },
+    {
+        "id": 7,
+        "name": "Veliona",
+        "price": 2000,
+        "imgUrl": "/images/veliona.jpg"
+    }
+]
